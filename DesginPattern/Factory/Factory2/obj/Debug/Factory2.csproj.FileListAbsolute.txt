@@ -1,0 +1,5 @@
+F:\DemoProject\DesginPattern\Factory\Factory2\bin\Debug\Factory2.exe.config
+F:\DemoProject\DesginPattern\Factory\Factory2\bin\Debug\Factory2.exe
+F:\DemoProject\DesginPattern\Factory\Factory2\bin\Debug\Factory2.pdb
+F:\DemoProject\DesginPattern\Factory\Factory2\obj\Debug\Factory2.exe
+F:\DemoProject\DesginPattern\Factory\Factory2\obj\Debug\Factory2.pdb
