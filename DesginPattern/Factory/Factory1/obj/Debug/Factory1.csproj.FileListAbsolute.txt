@@ -1,6 +1,0 @@
-F:\DemoProject\DesginPattern\Factory\Factory1\bin\Debug\Factory1.exe.config
-F:\DemoProject\DesginPattern\Factory\Factory1\obj\Debug\Factory1.csprojResolveAssemblyReference.cache
-F:\DemoProject\DesginPattern\Factory\Factory1\bin\Debug\Factory1.exe
-F:\DemoProject\DesginPattern\Factory\Factory1\bin\Debug\Factory1.pdb
-F:\DemoProject\DesginPattern\Factory\Factory1\obj\Debug\Factory1.exe
-F:\DemoProject\DesginPattern\Factory\Factory1\obj\Debug\Factory1.pdb

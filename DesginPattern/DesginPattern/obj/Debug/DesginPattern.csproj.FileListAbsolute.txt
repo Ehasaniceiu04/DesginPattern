@@ -1,1 +1,0 @@
-F:\DemoProject\DesginPattern\DesginPattern\bin\Debug\DesginPattern.exe.config

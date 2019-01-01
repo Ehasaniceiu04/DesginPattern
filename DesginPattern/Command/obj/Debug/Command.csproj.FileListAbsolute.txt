@@ -1,6 +1,0 @@
-F:\DemoProject\DesginPattern\Command\bin\Debug\Command.exe.config
-F:\DemoProject\DesginPattern\Command\bin\Debug\Command.exe
-F:\DemoProject\DesginPattern\Command\bin\Debug\Command.pdb
-F:\DemoProject\DesginPattern\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
-F:\DemoProject\DesginPattern\Command\obj\Debug\Command.exe
-F:\DemoProject\DesginPattern\Command\obj\Debug\Command.pdb

@@ -1,8 +1,0 @@
-F:\DemoProject\DesginPattern\COR\bin\Debug\COR.exe.config
-F:\DemoProject\DesginPattern\COR\bin\Debug\COR.exe
-F:\DemoProject\DesginPattern\COR\bin\Debug\COR.pdb
-F:\DemoProject\DesginPattern\COR\obj\Debug\COR.csprojResolveAssemblyReference.cache
-F:\DemoProject\DesginPattern\COR\obj\Debug\COR.exe
-F:\DemoProject\DesginPattern\COR\obj\Debug\COR.pdb
-F:\DemoProject\DesginPattern\COR\bin\Debug\Ninject.dll
-F:\DemoProject\DesginPattern\COR\bin\Debug\Ninject.xml
